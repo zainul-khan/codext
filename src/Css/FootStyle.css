@@ -1,0 +1,18 @@
+footer{
+    background-color: rgb(33, 31, 31);
+    color: #fff;
+    padding-top: 20px;
+}
+footer h6{
+    color: #fff;
+}
+footer p{
+    color: rgb(188, 179, 179);
+}
+footer .text-reset{
+    color: rgb(188, 179, 179);
+}
+
+.fa{
+    padding: 0 1em;
+}
